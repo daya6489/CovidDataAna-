@@ -1,4 +1,4 @@
-# How to analyse the Sample Covid data?
+# How to analyse the Covid data?
 
 # About Data
 Data set has 28 days covid case observations for two differenct cities, it includes number of positive cases, recovered cases and deaths in a day
